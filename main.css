@@ -1,5 +1,8 @@
 
-.user{}
+.user{
+    background-color: #fff;
+    border-style: solid;
+}
 
 .header__navbar{
     display: flex;
