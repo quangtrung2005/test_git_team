@@ -1,5 +1,9 @@
 
-.user{}
+.user{
+    padding: 10px;
+    margin: 20px;
+    
+}
 
 .header__navbar{
     display: flex;
